@@ -44,14 +44,24 @@
 <br/>
 
 #
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    width="400"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=JoseAMsilva&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
 
-<div align="left">
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMsilva&theme=tokyonight&layout=compact&custom_title=Technologies" 
+  />
 
-<div>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=JoseAMsilva&show_icons=true&theme=dracula" />
-  <img height = "165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMsilva&layout=compact&theme=dracula" />
-<div>
-
-<br>
+</p>
 
 #
