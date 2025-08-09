@@ -59,7 +59,7 @@
       alt="GitHub Stats" 
       height="200" 
       width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMsilva&theme=tokyonight&layout=compact&custom_title=Technologies" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>
