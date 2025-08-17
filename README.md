@@ -19,7 +19,7 @@
     align="left" 
     alt="python" 
     title = "python"
-    width ="30px"
+    width ="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -27,7 +27,7 @@
     align="left" 
     alt="C" 
     title = "C"
-    width ="30px"
+    width ="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
@@ -35,7 +35,7 @@
     align="left"
     alt="C#" 
     title="C#"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
   />
@@ -43,7 +43,7 @@
     align="left" 
     alt="git" 
     title = "git"
-    width ="30px"
+    width ="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
