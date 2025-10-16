@@ -16,7 +16,7 @@
 ### 🤖 Linguagens e Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,python" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,c,python" />
   </a>
 </p>
 <br/>
