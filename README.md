@@ -1,7 +1,7 @@
 
 ### Jose Amando
 #
-  Estudante
+  Desenvolvedor com foco em Backend, Estudante de Anális e Desenvolvimento de Sistemas no IFBA
 #
 <p align="left">
 
