@@ -29,25 +29,6 @@
 <br/>
 
 #
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    width="400"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=JoseAMsilva&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-
-</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseAMsilva/JoseAMsilva/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseAMsilva/JoseAMsilva/output/github-contribution-grid-snake-dark.svg">
