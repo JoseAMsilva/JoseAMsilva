@@ -91,7 +91,7 @@ const jose = {
 <br/><br/>
 
 <!-- Activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joseamsilva&bg_color=0d1117&color=2B70FF&line=2B70FF&point=FFFFFF&area=true&area_color=1D3B7F&title_color=2B70FF&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+<!--<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joseamsilva&bg_color=0d1117&color=2B70FF&line=2B70FF&point=FFFFFF&area=true&area_color=1D3B7F&title_color=2B70FF&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />-->
 
 </div>
 
@@ -104,9 +104,9 @@ const jose = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauasturaro/cauasturaro/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauasturaro/cauasturaro/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/cauasturaro/cauasturaro/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joseamsilva/joseamsilva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joseamsilva/joseamsilva/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/joseamsilva/joseamsilva/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
